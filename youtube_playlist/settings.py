@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 
-django_heroku.settings(locals()) 
+# django_heroku.settings(locals()) 
 
 SECRET_KEY = 'n5mjj^#sl^3w#_07fnl22i#&)8lthpccaibk(q$5i#&hg-tx8-'
 
